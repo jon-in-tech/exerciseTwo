@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+button {
+    padding: 3rem 4rem;
+}
+
+p {
+    font-weight: bold;
+}
